@@ -37,3 +37,11 @@ To customize the workflow, you can modify the `.github/workflows/blank.yml` file
 * **Adjust the Schedule**: Change the `cron` expression to your preferred schedule. You can use a tool like [crontab.guru](https://crontab.guru/) to help you.
 
 Feel free to fork this repository and adapt it to your needs!
+
+---
+
+### **Acknowledgements**
+
+This project was inspired by a helpful article on preventing Supabase projects from pausing, which can be found at:
+
+[How to prevent your Supabase Project database from being paused using GitHub Actions](https://dev.to/jps27cse/how-to-prevent-your-supabase-project-database-from-being-paused-using-github-actions-3hel)
